@@ -113,8 +113,10 @@
 
 #define MAG
 #define USE_MAG_HMC5883
+#define USE_MAG_QMC5883L
 
 #define MAG_HMC5883_ALIGN CW180_DEG
+#define MAG_QMC5883L_ALIGN CW180_DEG
 
 #define SONAR
 #define BEEPER
